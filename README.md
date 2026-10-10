@@ -2,7 +2,7 @@
 
 ## GEN26-A0H-I159
 ### Team Details
-#### **Team Name**""Team TechNova""<br/>
+#### **Team Name**: ""Team TechNova""<br/>
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |   Mode      |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:|:-----------:| 
